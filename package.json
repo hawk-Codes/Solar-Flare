@@ -1,0 +1,39 @@
+{
+  "name": "solar-flare",
+  "displayName": "Solar Flare",
+  "description": "Radiates warmth and energy, perfect to give a developer inspiration to keep going.",
+  "version": "1.0.0",
+  "publisher": "hawkCodes",
+  "icon": "icon.png",
+  "keywords": [
+   "dark theme",
+   "warm theme",
+   "sunset theme",
+   "solar theme",
+   "inspiration",
+   "dark",
+   "code",
+   "vscode",
+   "dark",
+   "sunset",
+   "warm and hot",
+   "energy",
+   "energetic"
+  ],
+  "repository": "https://github.com/hawk-Codes/Solar-Flare",
+  "engines": {
+    "vscode": "*"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Solar Flare",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Solar Flare-color-theme.json"
+      }
+    ]
+  }
+}
